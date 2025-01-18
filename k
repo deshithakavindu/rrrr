@@ -52,24 +52,24 @@ The following stakeholders are involved in social media bullying:
 
 
 Ethics refers to the moral principles and values that govern the behavior of individuals and groups. It is concerned with what is right and wrong, fair and unfair, and just and unjust. Ethics guides decision-making and actions by defining what individuals or societies consider acceptable conduct in various situations. Some ethical principle such as 
-•	Privacy Violations
-•	Mental Health Impact
-•	Respect for others
-•	Responsibility
+•	Autonomy and Dignity
+•	Doing Good
+•	Avoiding Harm
+•	Fairness and Equality
+•	Responsibility for Actions
+•	Confidentiality and Privacy
 
-So social medias also break some ethical principles it breaks mental health of people and most of the time social media can be threat for people.
+So social medias also break some ethical principles it breaks Autonomy and dignity of people and most of the time social media can be threat for people.
 
 There some advantages such as Social media has played a significant role in raising awareness of human rights, environmental issues, and political movements (e.g., Black Lives Matter, climate change activism)
 •	The Black Lives Matter movement, launched in 2013, gained prominence on social media after George Zimmerman's acquittal. The hashtag #BlackLivesMatter sparked protests and global solidarity, despite psychological stress linked to activism.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC10293473/?utm_source=chatgpt.com
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10293473/
 
 •	Social media has significantly influenced climate change activism by facilitating information sharing, organizing events, and advocating for policy changes, thereby spreading awareness and engaging a diverse audience in environmental issues.
-https://ccaps.umn.edu/story/power-social-media-climate-justice-advocacy?utm_source=chatgpt.com
+https://ccaps.umn.edu/story/power-social-media-climate-justice-advocacy
 
 
 
-
-also Cyberbullying can lead to mental health issues like anxiety, depression, and isolation, causing severe consequences like low self-esteem and suicidal thoughts. One tragic example that highlights the profound impact of cyberbullying is the case of Molly Russell's tragic death in 2017 exemplifies the devastating effects of online harassment, especially when exacerbated by toxic and unregulated online spaces. The case highlights the need for platforms to protect young users from harmful content.
 
 
 
